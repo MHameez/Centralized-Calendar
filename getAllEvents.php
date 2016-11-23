@@ -1,7 +1,6 @@
 <?php
  /** calling this service:
-  * http://localhost:1234/Centralized/getAllEvents.php?email[]=hameezrox@gmail.com&email[]=hamzeen@gmail.com
-  * Note: when multiple emials are given it will get events for each of those emails.
+   * Note: when multiple emials are given it will get events for each of those emails.
   */
   include('DatabaseHelper.class.php');
   $connection = new DatabaseHelper();
