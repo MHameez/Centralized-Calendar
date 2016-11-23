@@ -1,2 +1,2 @@
 # Centralized-Calendar
-PHP web services for an Android Calendar App that interact with an database (MySQL).
+PHP web services for an Android Calendar App that interact with a database (MySQL).
