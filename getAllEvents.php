@@ -2,7 +2,7 @@
  /** calling this service:
    * Note: when multiple emials are given it will get events for each of those emails.
   */
-  include('DatabaseHelper.class.php');
+  include('DatabaseHelper.class.php'); //Include the coonnection class
   $connection = new DatabaseHelper();
   $connection->connect();
 
